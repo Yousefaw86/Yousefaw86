@@ -15,7 +15,7 @@
 
 - 🏢 I'm a Senior Data Analyst. 
 - 👨‍💻 As a data analyst, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with SQL, Python, Tableau, or anything related to data analaysis.
+- 💬 Ask me about my experience with SQL, Python, Tableau, or anything related to data analysis.
 - ⚡ Fun Fact: I'm a Matcha enthusiast and my perfect day would start with a cup of matcha.
 
 
